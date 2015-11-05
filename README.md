@@ -2,7 +2,8 @@
 <strong>Javascript + Processing.js<br>
 Originally completed 6/27/2015</strong>
 
-This was a fun one. Got to use a bunch of array functions like Push, Shift, Unshift, Pop, Map, and Some.
+This was a fun one. <br>
+Got to use a bunch of array functions like Push, Shift, Unshift, Pop, Map, and Some.
 
 I also ended up learning a lot about variable scoping/hoisting, namespaces, and some general best practices.
 
