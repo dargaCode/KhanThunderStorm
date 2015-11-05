@@ -1,6 +1,6 @@
 # Khan Academy - Thunder Storm
-<strong>Javascript + Processing.js<br>
-Originally completed 6/27/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 6/27/2015
 
 This was a fun one. <br>
 Got to use a bunch of array functions like Push, Shift, Unshift, Pop, Map, and Some.
